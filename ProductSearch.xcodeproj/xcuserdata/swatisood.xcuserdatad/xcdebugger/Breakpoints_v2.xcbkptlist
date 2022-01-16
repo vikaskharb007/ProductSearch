@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20392B64-DF84-4D64-962F-CB7CE9F1461E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "353A3EB1-A88B-460A-BEA5-966E33B3B114"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "execute(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A41FC1E9-8B27-4262-B664-701B11CA2DEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Feature/Product Search/ProductSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "extractProductDetails(products:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A41FC1E9-8B27-4262-B664-701B11CA2DEB - 3cecdb115d8b1143"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSearch.ProductSearchViewModel.extractProductDetails(products: Swift.Array&lt;ProductSearch.Product&gt;) -&gt; ()"
+                  moduleName = "ProductSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/ProductSearch/ProductSearch/Feature/Product%20Search/ProductSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "A41FC1E9-8B27-4262-B664-701B11CA2DEB - d4c470558a023be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ProductSearch.Product) -&gt; ProductSearch.SearchedProductsModel in ProductSearch.ProductSearchViewModel.extractProductDetails(products: Swift.Array&lt;ProductSearch.Product&gt;) -&gt; ()"
+                  moduleName = "ProductSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/ProductSearch/ProductSearch/Feature/Product%20Search/ProductSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "594C1077-7E9C-4B2C-A764-700221B8FF74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D643A93-A8F0-45EF-A031-5579DF88D70E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79C30602-B394-4089-87DA-24A147AE6195"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "performNetworkRequest(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "580285D3-672F-4EB4-9542-8B8C388D2E53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "performNetworkRequest(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "580285D3-672F-4EB4-9542-8B8C388D2E53 - cbc1406500cc96c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSearch.NetworkManager.performNetworkRequest(with: Foundation.URL, completion: (Swift.Result&lt;Foundation.Data, ProductSearch.NetworkRequestError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/ProductSearch/ProductSearch/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "580285D3-672F-4EB4-9542-8B8C388D2E53 - a3d6e1238edee5b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ProductSearch.NetworkManager.performNetworkRequest(with: Foundation.URL, completion: (Swift.Result&lt;Foundation.Data, ProductSearch.NetworkRequestError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/ProductSearch/ProductSearch/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79AD8D2A-4666-4271-B280-5B400A98C0EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSearch/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "performNetworkRequest(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
